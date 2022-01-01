@@ -1,2 +1,3 @@
 # Film-Library
-Website that allows you to choose movies from a library and classify the movies and their summaries.
+
+Pour voir le site Web il suffit d'ouvrir **index.html** dans un navigateur.
